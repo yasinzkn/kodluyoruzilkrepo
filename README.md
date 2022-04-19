@@ -26,6 +26,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-Patika
+Patika:
 
 [patika](https://www.patika.dev/)
