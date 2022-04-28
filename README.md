@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-[Yasin Özkan](https://app.patika.dev/yasinzkn)
+[www.patika.dev](https://www.patika.dev/tr)
