@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-[www.patika.dev](https://www.patika.dev/tr)
+[www.patika.dev](https://www.patika.dev)
